@@ -1,0 +1,37 @@
+{
+  "totalSteps": 5,
+  "maxConcurrency": 2,
+  "status": "completed",
+  "steps": [
+    {
+      "step": 1,
+      "status": "completed",
+      "result": "363",
+      "completedAt": "2026-03-16T19:42:19.9034377+00:00"
+    },
+    {
+      "step": 2,
+      "status": "completed",
+      "result": "799",
+      "completedAt": "2026-03-16T19:42:19.2984135+00:00"
+    },
+    {
+      "step": 3,
+      "status": "completed",
+      "result": "627",
+      "completedAt": "2026-03-16T19:42:20.5300108+00:00"
+    },
+    {
+      "step": 4,
+      "status": "completed",
+      "result": "808",
+      "completedAt": "2026-03-16T19:42:22.9020006+00:00"
+    },
+    {
+      "step": 5,
+      "status": "completed",
+      "result": "155",
+      "completedAt": "2026-03-16T19:42:21.7793997+00:00"
+    }
+  ]
+}
