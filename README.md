@@ -1,4 +1,4 @@
-##Lead Pipeline
+#Lead Pipeline
 
 This repo was created using Claude Code, for the purpose of creating a sample application for a Lead role.
 
